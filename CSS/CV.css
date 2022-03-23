@@ -1,0 +1,117 @@
+.div1{
+    background-color: rgb(236, 210, 160);
+    width:25%;
+    padding-left: 3%;
+   
+}
+body{
+    margin: 0%;
+}
+.div1 img{
+    
+    border-radius: 50%;
+    border-style:dotted;
+    border-color: orange;
+    margin-left: 2%;
+    width: 50%;
+    
+}
+.div2 h1{
+    color: orange;
+    text-decoration: underline;
+    margin-left: 2%;
+}
+.div2 h2{
+    font: bold;
+    margin-left: 2%;
+    margin-top: 0%;
+    font-size: small;
+}
+.div2 pre{
+    
+    margin-left: 2%;
+    font-size: small;
+}
+.div2 li{
+    
+    margin-left: 2%;
+    font-family: 'Times New Roman','Courier New', Courier, monospace;
+}
+.div3 h1{
+    color: orange;
+    text-decoration: underline;
+    margin-left: 2%;
+}
+.div3 h2{
+    font: bold;
+    margin-left: 2%;
+    margin-top: 0%;
+    font-size: small;
+    
+}
+.div3 h2 a{
+    color: black ;
+}
+.div3 h2 .fa1{
+    color: orange;
+}
+.div2{
+    margin-bottom: 25%;
+}
+.div3{
+    margin-top: 50%;
+}
+
+.div{
+    display: flex;
+    font-family: 'Times New Roman','Courier New', Courier, monospace;
+}
+.div4 {
+    background-color: rgb(228, 227, 227);
+    float:right;
+    width:70%;
+    
+
+}
+.div5{
+    text-align: center;
+    font-size:x-large;
+    text-decoration: underline;
+}
+.div6 h1{
+    color: orange;
+    text-decoration: underline;
+}
+.div6{
+    padding-left: 3%;
+    font-size: small;
+}
+.div6 pre{
+    padding-left: 6%;
+}
+.div7 h1{
+    color: orange;
+    text-decoration: underline;
+}
+.div7{
+    padding-left: 3%;
+    font-size: small;
+}
+.div8 h1{
+    color: orange;
+    text-decoration: underline;
+}
+.div8{
+    padding-left: 3%;
+    font-size: small;
+    display: flex;
+}
+.div9{
+    margin-top: 5%;
+        width: 45%;
+}
+.div10{
+    margin-top: 5%;
+     width: 45%;
+}
+
